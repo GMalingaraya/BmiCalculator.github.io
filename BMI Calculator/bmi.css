@@ -1,0 +1,71 @@
+body {
+    background-image:url('bg1.jpg');
+    width: 600px;
+}
+.heading {
+    position: relative;
+    left: 480px;
+    text-decoration: underline;
+    color: rgba(0, 191, 255, 0.73);
+    font-style: italic;
+    font-size: xx-large;
+}
+.weight {
+    position: relative;
+    top: 10px;
+    left: 450px;
+}
+.height {
+    position: relative;
+    top: 15px;
+    left: 450px;
+}
+.calculate {
+    position: relative;
+    left: 550px;
+    top: 50px;
+}
+.ans {
+    position: relative;
+    left: 460px;
+    top: 55px;
+}
+.result{
+    position: relative;
+    left: 580px;
+    bottom: -25px;
+}
+#outputbmi {
+    position: relative;
+    left: 625px;
+    bottom: -6px;
+    font-size: large;
+    width: 100px;
+    height: 25px;
+}
+.table {
+    position: relative;
+    left: 480px;
+    top:42px
+}
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+th,td {
+    border: 1px solid black;
+    padding: 7px;
+    text-align: center;
+}
+th {
+    background-color: white;
+}
+#estimate{
+    position: relative;
+    left: 570px;
+    top: 17px;
+    width: 120px;
+    height: 30px;
+    text-align: center;
+    padding-top:7px;
+}
